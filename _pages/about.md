@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Lecturer in Economics"
+title: "Lecturer in Economics, University of Education, Winneba-Ghana"
 author_profile: true
 redirect_from: 
   - /about/
